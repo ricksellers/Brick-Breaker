@@ -1,3 +1,8 @@
+# Brick Breaker
+#### A simple breakout clone in Phaser
+
+Demo: http://www.ricksellers.design/projects/brick_breaker
+
 # Phaser + ES6 + Webpack.
 #### A bootstrap project to create games with Phaser + ES6 + Webpack.
 
